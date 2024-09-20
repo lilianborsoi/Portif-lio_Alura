@@ -18,7 +18,7 @@ O objetivo deste projeto é apresentar minhas habilidades como desenvolvedora fr
 ### Como Visualizar o Projeto
 1. **Clone este repositório:**
    ```bash
-   git clone [https://es.wiktionary.org/wiki/removido](https://es.wiktionary.org/wiki/removido)
+   git clone [https://github.com/lilianborsoi/Portif-lio_Alura)
 
 **Site**
 
